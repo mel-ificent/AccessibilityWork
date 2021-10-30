@@ -6,12 +6,17 @@ As a developer, it is important to develop applications that meet accessibility 
 Additionally, developers should practice writing "clean code" so that others who review a website's code can easily follow along.  This includes using standard naming conventions, writing HTML and CSS codes in a logical flow, consolidating code where possible, and always including comments to help guide users.
 
 The purpose of this project was to take existing code and improve upon it so it meets accessibility and general coding standards.  Some changes that were made include:
-    1. Restructuring CSS and HTML code into a logical format
-    2. Consolidating CSS code where applicable
-    3. Correcting display and position of icons and image elements
-    4. Adding accessible alt attributes
-    5. Updating header and title attributes
-    6. Updating comments throughout the stylesheet
+1. Restructuring CSS and HTML code into a logical format
+
+2. Consolidating CSS code where applicable
+
+3. Correcting display and position of icons and image elements
+
+4. Adding accessible alt attributes
+
+5. Updating header and title attributes
+
+6. Updating comments throughout the stylesheet
 
 This exercise was a great first step in better understanding the basics on website accessibility and structuring code, while also grasping display, positioning, and box-model concepts.
 
